@@ -7,3 +7,9 @@ Example: Used the frida script examples/1.js in this repo to implant instruction
 Example: Used the frida script examples/2.js in this repo to implant DAN instructions, bot acts like its DAN, it isnt gonna be unrestricted which was weird
 <img width="1170" height="1140" alt="1" src="https://github.com/user-attachments/assets/e06dd08c-45fd-4535-8c77-8710b775e1b5" />
 <img width="1170" height="1484" alt="2" src="https://github.com/user-attachments/assets/16ae18be-e358-4d0b-97f1-f90a8663ac9f" />
+
+---
+
+## ⭐ Contributions
+
+Pull requests, improvements, and further test cases are welcome.
